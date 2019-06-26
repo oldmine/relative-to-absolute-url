@@ -1,5 +1,9 @@
 Changelog for RelativeToAbsoluteUrl
 
+RelativeToAbsoluteUrl v1.6, June 26, 2019
+----------------------------------------------
+- Added support PHP 7.3+ regex (PCRE2)
+
 RelativeToAbsoluteUrl v1.5, December 23, 2018
 ----------------------------------------------
 - Changed the type of the return value is always a string (in case of an error, the string is empty)
